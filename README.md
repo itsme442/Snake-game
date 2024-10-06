@@ -14,4 +14,3 @@ Clone this repository and open index.html in your browser to play!
 
 ---
 
-Feel free to adjust any part of it to better fit your project!
