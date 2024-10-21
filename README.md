@@ -7,7 +7,7 @@ Welcome to the Snake Game project! This classic game allows players to control a
 
 You can play the Snake Game by clicking the link below:
 
-Play the Snake Game
+https://itsme442.github.io/snake-game/
 
 ▎Features
 
