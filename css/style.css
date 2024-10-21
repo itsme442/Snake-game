@@ -1,9 +1,14 @@
 .canvas{
     background-color: #000;
 }
-.canvas{
-    margin-left: auto;
-    margin-left: auto;
-    margin-top: auto;
-    margin-bottom: auto;
+body{
+    background-color: #000;
+}
+canvas {
+    
+    top:0px; left:0px;
+    background-image: linear-gradient(to bottom right,blue, red);
+    position: absolute;
+    z-index: -1;
+    margin: 20px 80px auto 380px
 }
